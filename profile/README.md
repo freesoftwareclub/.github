@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="./image.png" width="96" height="96" style="border-radius: 16px" />
+  <img src="./uwu.png" width="96" height="96" style="border-radius: 16px" />
   <h1>freesoftware.club</h1>
 </div>
 
