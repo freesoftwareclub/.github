@@ -12,6 +12,6 @@
 
 ## 🙋 members
 - (founder) [errplane](https://github.com/errplane)
-- (co-owner) [spark](https://github.com/LolzTheDev)
+- (member) [spark](https://github.com/LolzTheDev)
 
 join the [discord](https://discord.gg/mqUapKtE) for updates!
