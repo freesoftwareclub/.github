@@ -13,5 +13,3 @@
 ## 🙋 members
 - (founder) [errplane](https://github.com/errplane)
 - (member) [spark](https://github.com/LolzTheDev)
-
-join the [discord](https://discord.gg/mqUapKtE) for updates!
